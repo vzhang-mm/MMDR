@@ -6,8 +6,7 @@
 - `resNet50_AffectNet.pth`: [Download Link](https://example.com/download/resNet50_AffectNet.pth)  
 
 ### 2. Preprocessed AVEC Datasets
-- **AVEC2013 (processed)**: [Download AVEC2013](https://example.com/download/avec2013_processed.zip)  
-- **AVEC2014 (processed)**: [Download AVEC2014](https://example.com/download/avec2014_processed.zip)  
+- **AVEC2013 & AVEC2014(processed)**: [Download](https://pan.baidu.com/s/1IGo1cC9IjR2iTyYAOtyS8A?pwd=nw2t), code: nw2t 
 
 ## 🛠️ Requirements
 
